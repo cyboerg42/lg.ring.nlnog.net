@@ -1,5 +1,5 @@
 #nextlayer contact noc@nextlayer.at
-1764:10,Internet
+1764:10,Internet originated
 1764:14,AS1764 originated v4 routes
 1764:16,AS1764 originated v6 routes
 1764:19,AS1764 originated MCAST routes
